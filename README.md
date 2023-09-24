@@ -1,2 +1,2 @@
 # Detour
-A simple project to demonstrate function hooking / detouring
+一个简单的项目，用于演示函数钩子/重定向。
